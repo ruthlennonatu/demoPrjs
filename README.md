@@ -1,6 +1,8 @@
 # demoPrjs 
 
-* Create a branch to work in
+* create a new folder to work in
+* create a clone of the repo
+* Create a copy in a new branch to work in
 * Make your edits such as creating a file
 * Add your file
 * Commit using a good commit message. 
@@ -10,6 +12,10 @@
 ** also reference keyword(s) such as fixes, resolves, closes
 
 * push your branch to the remote repo (github) creating a new branch there
+
+
+
+git clone https://github.com/ruthlennonatu/demoPrjs
 
 git checkout -b gh1-wip
 
